@@ -26,7 +26,7 @@
     "express": "^4.16.4",
     "express-ejs-layouts": "^2.5.0",
     "helmet": "^3.16.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "login.dfe.audit.winston-sequelize-transport": "git+https://github.com/DFE-Digital/login.dfe.audit.winston-sequelize-transport.git#v1.0",
     "login.dfe.express-error-handling": "git+https://github.com/DFE-Digital/login.dfe.express-error-handling.git#v1.2",
     "login.dfe.healthcheck": "git+https://github.com/DFE-Digital/login.dfe.healthcheck.git#v1.4.3",
